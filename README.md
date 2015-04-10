@@ -15,3 +15,5 @@
 + [178 Rank Scores](database/RankScores)
 
 ## Shell
+
++ [192 Word Frequency](shell/WordFrequency)
