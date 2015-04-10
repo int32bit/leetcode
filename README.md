@@ -14,6 +14,7 @@
 + [176 Second Highest Salary](database/SecondHighestSalary)
 + [178 Rank Scores](database/RankScores)
 + [181 Employees Earning More Than Their Managers](database/EmployeesEarningMoreThanTheirManagers)
++ [182 Duplicate Emails](database/DuplicateEmails)
 
 ## Shell
 
