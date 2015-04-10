@@ -17,3 +17,4 @@
 ## Shell
 
 + [192 Word Frequency](shell/WordFrequency)
++ [193 Valid Phone Numbers](shell/ValidPhoneNumbers)
