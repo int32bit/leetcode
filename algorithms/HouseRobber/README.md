@@ -19,7 +19,7 @@ Given a list of non-negative integers representing the amount of money of each h
 
 因此最后的时间复杂度是O（n），空间复杂度是O（1）
 代码为：
-```
+```c
 int rob(int num[], int n) {
 	int df[2];
 	int i, result = -1;
