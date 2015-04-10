@@ -10,11 +10,11 @@ You may assume that each input would have exactly one solution.
 Input: numbers={2, 7, 11, 15}, target=9
 Output: index1=1, index2=2
 
-## Solution1
+## Solution 1
 
 暴力枚举法，时间复杂度O(n<sup>2</sup>),时间复杂度O(1)
 
-## Solution2
+## Solution 2
 
 假设数组为2 7 11 15， target 为9, 则用9减数组的元素得到一个新的数组7 2 -2 -6，则只需要查找数组中的元素是否在新的数组中出现即可判断是否存在满足条件的两个数。
 
@@ -37,3 +37,4 @@ vector<int> twoSum(vector<int> &numbers, int target) {
 	return result;
 }
 ```
+时间复杂度为O(n), 空间复杂度O(n).
