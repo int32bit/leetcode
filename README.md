@@ -15,6 +15,8 @@
 + [178 Rank Scores](database/RankScores)
 + [181 Employees Earning More Than Their Managers](database/EmployeesEarningMoreThanTheirManagers)
 + [182 Duplicate Emails](database/DuplicateEmails)
++ [183 Customers Who Never Order](database/CustomersWhoNeverOrder)
++ [184 Department Highest Salary](database/DepartmentHighestSalary)
 
 ## Shell
 
