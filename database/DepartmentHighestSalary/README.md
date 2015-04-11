@@ -32,7 +32,7 @@ Write a SQL query to find employees who have the highest salary in each of the d
 +------------+----------+--------+
 ```
 
-## Solution
+## Solution 1
 
 这道题很明显是聚集查询。首先想到的自然是`max` 和`group`语句, 于是不加思索的使用以下sql语句:
 ```sql
@@ -69,6 +69,21 @@ on e1.DepartmentId = t.DepartmentId
 join Department as d
 on e1.DepartmentId = d.Id
 where e1.Salary = max;
+```
+
+## Solution 2
+
+同样的假如我们已经得到`DepartmentId` 和最高`Salary`，则可以使用`in`子句实现。
+
+## Code
+```sql
+SELECT D.Name AS Department ,E.Name AS Employee ,E.Salary 
+from 
+Employee E,
+Department D 
+WHERE E.DepartmentId = D.id 
+AND (DepartmentId,Salary) in 
+(SELECT DepartmentId,max(Salary) as max FROM Employee GROUP BY DepartmentId) 
 ```
 
 ## 关于聚集查询
