@@ -28,5 +28,7 @@ For example, return the following Ids for the above `Weather` table:
 ## Code
 
 ```sql
-select w1.Id from Weather w1, Weather w2 where TO_DAYS(w1.DATE) = TO_DAYS(w2.DATE) + 1 and w1.Temperature > w2.Temperature;
+select w1.Id from Weather w1, Weather w2 
+where TO_DAYS(w1.DATE) = TO_DAYS(w2.DATE) + 1 
+and w1.Temperature > w2.Temperature;
 ```
