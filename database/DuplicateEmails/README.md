@@ -22,11 +22,24 @@ For example, your query should return the following for the above table:
 ```
 Note: All emails are in lowercase.
 
-## Solution
+## Solution 1
 
 直接使用子查询
 
 ## Code
 ```sql
-select Email from (select Email, count(*)  count from Person  group by Email) as e where e.count > 1;
+select Email
+from (select Email, count(*)  count from Person  group by Email) as e
+where e.count > 1;
+```
+
+## Solution 2
+
+分组过滤
+
+## Code
+```sql
+select Email
+from Person group by Email
+having count(Email) > 1;
 ```
