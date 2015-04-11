@@ -6,6 +6,7 @@
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测）](algorithms/StringtoInteger)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
++ [31 Next Permutation](algorithms/NextPermutation)
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
 
