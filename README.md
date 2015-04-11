@@ -17,6 +17,7 @@
 + [182 Duplicate Emails](database/DuplicateEmails)
 + [183 Customers Who Never Order](database/CustomersWhoNeverOrder)
 + [184 Department Highest Salary](database/DepartmentHighestSalary)
++ [196 Delete Duplicate Emails](database/DeleteDuplicateEmails)
 
 ## Shell
 
