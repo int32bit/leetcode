@@ -5,6 +5,7 @@
 + [3 Longest Substring Without Repeating Characters(DP)](algorithms/LongestSubstringWithoutRepeatingCharacters)
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
++ [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
 
 ## Database
