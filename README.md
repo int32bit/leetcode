@@ -6,6 +6,7 @@
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测）](algorithms/StringtoInteger)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
++ [29 Divide Two Integers](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
 + [46 Permutations(全排列)](algorithms/Permutations)
 + [47 Permutations II(全排列)](algorithms/Permutations2)
