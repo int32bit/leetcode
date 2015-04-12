@@ -7,6 +7,7 @@
 + [8 String to Integer (atoi)(溢出检测）](algorithms/StringtoInteger)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
 + [31 Next Permutation](algorithms/NextPermutation)
++ [60 Permutation Sequence](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
