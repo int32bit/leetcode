@@ -8,7 +8,7 @@
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
 + [46 Permutations(全排列)](algorithms/Permutations)
- [47 Permutations II(全排列)](algorithms/Permutations2)
++ [47 Permutations II(全排列)](algorithms/Permutations2)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
