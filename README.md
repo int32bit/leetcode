@@ -6,6 +6,7 @@
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测）](algorithms/StringtoInteger)
 + [15 3Sum](algorithms/3Sum)
++ [18 4Sum](algorithms/4Sum)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
