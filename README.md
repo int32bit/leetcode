@@ -17,6 +17,7 @@
 + [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
++ [75 Sort Colors](algorithms/SortColors)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
