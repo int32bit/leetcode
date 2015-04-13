@@ -14,6 +14,7 @@
 + [46 Permutations(全排列)](algorithms/Permutations)
 + [47 Permutations II(全排列)](algorithms/Permutations2)
 + [50 Pow(x, n)(二分，浮点数比较，INT\_MIN绝对值)](algorithms/Pow)
++ [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
