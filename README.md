@@ -6,6 +6,7 @@
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测)](algorithms/StringtoInteger)
 + [10 Regular Expression Matching(递归)](algorithms/RegularExpressionMatching)
++ [11 Container With Most Water](algorithms/ContainerWithMostWater)
 + [15 3Sum](algorithms/3Sum)
 + [18 4Sum](algorithms/4Sum)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
@@ -20,6 +21,8 @@
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [75 Sort Colors](algorithms/SortColors)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
++ [179 Largest Number](algorithms/LargestNumber)
++ [189 Rotate Array](algorithms/RotateArray)
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
 
