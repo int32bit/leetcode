@@ -23,7 +23,7 @@
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [75 Sort Colors](algorithms/SortColors)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
-+ [146 LRU Cache(algorithms/LRUCache)
++ [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [179 Largest Number](algorithms/LargestNumber)
 + [189 Rotate Array](algorithms/RotateArray)
