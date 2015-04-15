@@ -31,6 +31,7 @@
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [179 Largest Number](algorithms/LargestNumber)
 + [189 Rotate Array](algorithms/RotateArray)
++ [190 Reverse Bits](algorithms/ReverseBits)
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
 + [199 Binary Tree Right Side View(层次遍历)](algorithms/BinaryTreeRightSideView)
