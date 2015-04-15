@@ -24,6 +24,7 @@
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [75 Sort Colors](algorithms/SortColors)
 + [100 Same Tree](algorithms/SameTree)
++ [101 Symmetric Tree](algorithms/SymmetricTree)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
