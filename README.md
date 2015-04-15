@@ -25,6 +25,7 @@
 + [75 Sort Colors](algorithms/SortColors)
 + [100 Same Tree](algorithms/SameTree)
 + [101 Symmetric Tree](algorithms/SymmetricTree)
++ [104 Maximum Depth of Binary Tree](algorithms/MaximumDepthofBinaryTree)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
