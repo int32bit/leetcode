@@ -5,6 +5,7 @@
 + [3 Longest Substring Without Repeating Characters(DP)](algorithms/LongestSubstringWithoutRepeatingCharacters)
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测)](algorithms/StringtoInteger)
++ [9 Palindrome Number](algorithms/PalindromeNumber)
 + [10 Regular Expression Matching(递归)](algorithms/RegularExpressionMatching)
 + [11 Container With Most Water](algorithms/ContainerWithMostWater)
 + [15 3Sum](algorithms/3Sum)
