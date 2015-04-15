@@ -13,6 +13,7 @@
 + [19 Remove Nth Node From End of List](algorithms/RemoveNthNodeFromEndofList)
 + [20 Valid Parentheses](algorithms/ValidParentheses)
 + [21 Merge Two Sorted Lists](algorithms/MergeTwoSortedLists)
++ [22 Generate Parentheses(递归、搜索)](algorithms/GenerateParentheses)
 + [26 Remove Duplicates from Sorted Array](algorithms/RemoveDuplicatesfromSortedArray)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
