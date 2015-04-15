@@ -3,7 +3,9 @@
 Given a digit string, return all possible letter combinations that the number could represent.
 
 A mapping of digit to letters (just like on the telephone buttons) is given below.
+
 ![](keypad.png)
+
 ```
 Input:Digit string "23"
 Output: ["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"].
@@ -13,6 +15,16 @@ Although the above answer is in lexicographical order, your answer could be in a
 
 ## Solution
 
+分别遍历追加即可，注意`c++`中字符串追加字符不能用`“” + c`, 而只能用`string() + c`,这一点和java的不同之处。
+
+另外注意c++lambda表达式捕获变量:
+```
+[&result] 表示捕获result，并且result按引用传递
+[result] 表示捕获result，并且result按值传递
+[&] 所有变量按引用传递
+[=] 所有变量传值
+[] 不捕获任何变量
+```
 ```cpp
 class Solution {
 	public:
