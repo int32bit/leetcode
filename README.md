@@ -32,6 +32,7 @@
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
++ [152 Maximum Product Subarray(DP)](algorithms/MaximumProductSubarray)
 + [160 Intersection of Two Linked Lists](algorithms/IntersectionofTwoLinkedLists)
 + [169 Majority Element](algorithms/MajorityElement)
 + [179 Largest Number](algorithms/LargestNumber)
