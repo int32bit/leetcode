@@ -31,6 +31,7 @@
 + [104 Maximum Depth of Binary Tree](algorithms/MaximumDepthofBinaryTree)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [141 Linked List Cycle](algorithms/LinkedListCycle)
++ [142 Linked List Cycle II](algorithms/LinkedListCycle2)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [152 Maximum Product Subarray(DP)](algorithms/MaximumProductSubarray)
