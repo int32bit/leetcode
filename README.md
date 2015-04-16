@@ -32,6 +32,7 @@
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
++ [169 Majority Element](algorithms/MajorityElement)
 + [179 Largest Number](algorithms/LargestNumber)
 + [189 Rotate Array](algorithms/RotateArray)
 + [190 Reverse Bits](algorithms/ReverseBits)
