@@ -20,7 +20,11 @@ For example, given the above Logs table, 1 is the only number that appears conse
 
 使用自连接，然后一一和上一个比较，最后分组过滤即可
 ```sql
-select log1.Num from Logs log1 join Logs log2 on log1.Id + 1 = log2.Id and log1.Num = log2.Num group by log1.Num having count(log1.Num) >= 2;
+select log1.Num from Logs log1 
+join Logs log2 
+on log1.Id + 1 = log2.Id and log1.Num = log2.Num 
+group by log1.Num 
+having count(log1.Num) >= 2;
 ```
 
 结果超时, 可能是分组导致的。
@@ -30,7 +34,9 @@ select log1.Num from Logs log1 join Logs log2 on log1.Id + 1 = log2.Id and log1.
 还是使用自连接，不过为了避免group开销，直接使用三个表连接，分别指向Id, Id + 1, Id + 2，并分别让Num相等即可
 
 ```sql
-select distinct a.Num from Logs a, Logs b,Logs c where a.Id=b.Id+1 and a.Num=b.Num and b.Id=c.Id+1 and b.Num=c.Num;
+select distinct a.Num 
+from Logs a, Logs b,Logs c 
+where a.Id=b.Id+1 and a.Num=b.Num and b.Id=c.Id+1 and b.Num=c.Num;
 ```
 
 ## Solution 3
