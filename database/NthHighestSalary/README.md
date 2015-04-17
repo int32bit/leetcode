@@ -102,3 +102,19 @@ s1;
 s2;
 end while[end_label]
 ```
+
+## Code
+```mysql
+CREATE FUNCTION getNthHighestSalary(N INT) RETURNS INT
+BEGIN
+	declare x int;
+	set N = N - 1;
+	set x = (select distinct Salary from Employee order by Salary desc limit N, 1);
+	if isnull(x)
+		then
+		return null;
+	else
+		return x;
+	end if;
+END
+```
