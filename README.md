@@ -25,6 +25,7 @@
 + [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
++ [72 Edit Distance(DP)](algorithms/EditDistance)
 + [75 Sort Colors](algorithms/SortColors)
 + [100 Same Tree](algorithms/SameTree)
 + [101 Symmetric Tree](algorithms/SymmetricTree)
