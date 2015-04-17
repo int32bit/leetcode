@@ -53,6 +53,7 @@
 + [176 Second Highest Salary (子查询)](database/SecondHighestSalary)
 + [177 Nth Highest Salary(定义函数，变量，分支结构)](database/NthHighestSalary)
 + [178 Rank Scores (导出表、聚集)](database/RankScores)
++ [180 Consecutive Numbers(case语句)](database/ConsecutiveNumbers)
 + [181 Employees Earning More Than Their Managers(自连接)](database/EmployeesEarningMoreThanTheirManagers)
 + [182 Duplicate Emails(分组过滤)](database/DuplicateEmails)
 + [183 Customers Who Never Order(exists子句)](database/CustomersWhoNeverOrder)
