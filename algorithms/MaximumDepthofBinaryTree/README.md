@@ -17,3 +17,7 @@ int maxDepth(struct TreeNode *root)
 	return max(maxDepth(root->left), maxDepth(root->right)) + 1;
 }
 ```
+
+## 扩展
+
+求树的最小深度[Minimum Depth of Binary Tree](../MinimumDepthofBinaryTree)
