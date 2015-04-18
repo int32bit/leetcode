@@ -40,4 +40,4 @@ int findMin(vector<int> &nums) {
 
 ## 扩展
 
-当有重复元素存在时，见[Find Minimum in Rotated Sorted Array II](FindMinimuminRotatedSortedArray2)
+当有重复元素存在时，见[Find Minimum in Rotated Sorted Array II](../FindMinimuminRotatedSortedArray2)
