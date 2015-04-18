@@ -36,3 +36,7 @@ bool hasPathSum(struct TreeNode *root, int sum) {
 	return true;
 }
 ```
+
+## 扩展
+
+见[Path Sum II](../PathSum2).
