@@ -30,9 +30,10 @@
 + [100 Same Tree](algorithms/SameTree)
 + [101 Symmetric Tree](algorithms/SymmetricTree)
 + [104 Maximum Depth of Binary Tree](algorithms/MaximumDepthofBinaryTree)
-+ [112 Path Sum](algorithms/PathSum)
++ [112 Path Sum(前序遍历)](algorithms/PathSum)
++ [113 Path Sum II(前序遍历)](algorithms/PathSum2)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
-+ [141 Linked List Cycle](algorithms/LinkedListCycle)
++ [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
 + [142 Linked List Cycle II](algorithms/LinkedListCycle2)
 + [146 LRU Cache](algorithms/LRUCache)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
@@ -47,8 +48,8 @@
 + [191 Number of 1 Bits(位运算)](algorithms/Numberof1Bits)
 + [198 House Robber(DP)](algorithms/HouseRobber)
 + [199 Binary Tree Right Side View(层次遍历)](algorithms/BinaryTreeRightSideView)
-+ [200 Number of Islands](algorithms/NumberofIslands)
-+ [201 Bitwise AND of Numbers Range](algorithms/BitwiseANDofNumbersRange)
++ [200 Number of Islands(递归标记、搜索)](algorithms/NumberofIslands)
++ [201 Bitwise AND of Numbers Range(位运算)](algorithms/BitwiseANDofNumbersRange)
 
 ## Database
 
