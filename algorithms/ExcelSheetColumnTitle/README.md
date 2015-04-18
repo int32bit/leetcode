@@ -19,3 +19,6 @@ string convertToTitle(int n) {
 	return string(result.rbegin(), result.rend());
 }
 ```
+## 扩展
+
+逆过程[Excel Sheet Column Number](../ExcelSheetColumnNumber)

@@ -44,6 +44,7 @@
 + [165 Compare Version Numbers](algorithms/CompareVersionNumbers)
 + [168 Excel Sheet Column Title(进制转化)](algorithms/ExcelSheetColumnTitle)
 + [169 Majority Element](algorithms/MajorityElement)
++ [171 Excel Sheet Column Number(进制转化)](algorithms/ExcelSheetColumnNumber)
 + [172 Factorial Trailing Zeroes](algorithms/FactorialTrailingZeroes)
 + [179 Largest Number](algorithms/LargestNumber)
 + [189 Rotate Array](algorithms/RotateArray)
