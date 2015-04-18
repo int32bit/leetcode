@@ -43,6 +43,7 @@
 + [160 Intersection of Two Linked Lists](algorithms/IntersectionofTwoLinkedLists)
 + [165 Compare Version Numbers](algorithms/CompareVersionNumbers)
 + [169 Majority Element](algorithms/MajorityElement)
++ [172 Factorial Trailing Zeroes](algorithms/FactorialTrailingZeroes)
 + [179 Largest Number](algorithms/LargestNumber)
 + [189 Rotate Array](algorithms/RotateArray)
 + [190 Reverse Bits](algorithms/ReverseBits)
