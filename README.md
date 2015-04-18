@@ -39,6 +39,7 @@
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [152 Maximum Product Subarray(DP)](algorithms/MaximumProductSubarray)
 + [153 Find Minimum in Rotated Sorted Array](algorithms/FindMinimuminRotatedSortedArray)
++ [154 Find Minimum in Rotated Sorted Array II](algorithms/FindMinimuminRotatedSortedArray2)
 + [160 Intersection of Two Linked Lists](algorithms/IntersectionofTwoLinkedLists)
 + [165 Compare Version Numbers](algorithms/CompareVersionNumbers)
 + [169 Majority Element](algorithms/MajorityElement)

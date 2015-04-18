@@ -14,10 +14,13 @@ class Solution {
 				if (nums[s] < nums[t])
 					return nums[s];
 				int mid = (s + t) >> 1;
-				if (nums[mid] > nums[t])
+				if (nums[mid] > nums[t]) {
 					s = mid + 1;
-				else 
+				} else if (nums[mid] < nums[t]) {
 					t = mid;
+				} else {
+					t--;
+				}
 			}
 			return nums[s];
 		}

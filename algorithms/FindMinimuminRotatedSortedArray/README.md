@@ -13,8 +13,8 @@ You may assume no duplicate exists in the array.
 使用二分搜索，设当前搜索范围为`[left, right]`, 则中间的值为`mid = (left + right) /2`, 则
 
 * 若`a[left] < a[right]`, 说明没有旋转，返回`a[left]`.
-* 若`a[mid] >= a[left]`, 则结果在右边， `left = mid + 1`
-* 若`a[mid] < a[left]`, 则结果在左边， `right = mid`
+* 若`a[mid] > a[right]`, 则结果在右边， `left = mid + 1`
+* 若`a[mid] < a[right]`, 则结果在左边， `right = mid`
 
 关键注意边界为题, 什么时候用`>=`什么时候用`>`, 以及什么时候用`mid`, 什么时候用`mid + 1`
 
@@ -29,12 +29,15 @@ int findMin(vector<int> &nums) {
 		if (nums[s] < nums[t])
 			return nums[s];
 		int mid = (s + t) >> 1;
-		if (nums[mid] >= nums[s]) {
+		if (nums[mid] > nums[t])
 			s = mid + 1;
-		} else {
+		else 
 			t = mid;
-		}
 	}
 	return nums[s];
 }
 ```
+
+## 扩展
+
+当有重复元素存在时，见[Find Minimum in Rotated Sorted Array II](FindMinimuminRotatedSortedArray2)
