@@ -38,6 +38,7 @@
 + [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
 + [142 Linked List Cycle II](algorithms/LinkedListCycle2)
 + [146 LRU Cache](algorithms/LRUCache)
++ [150 Evaluate Reverse Polish Notation](algorithms/EvaluateReversePolishNotation)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [152 Maximum Product Subarray(DP)](algorithms/MaximumProductSubarray)
 + [153 Find Minimum in Rotated Sorted Array](algorithms/FindMinimuminRotatedSortedArray)

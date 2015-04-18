@@ -34,3 +34,4 @@ core
 
 # Debug files
 *.dSYM/
+*.class
