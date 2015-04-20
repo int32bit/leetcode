@@ -47,6 +47,7 @@
 + [153 Find Minimum in Rotated Sorted Array](algorithms/FindMinimuminRotatedSortedArray)
 + [154 Find Minimum in Rotated Sorted Array II](algorithms/FindMinimuminRotatedSortedArray2)
 + [160 Intersection of Two Linked Lists](algorithms/IntersectionofTwoLinkedLists)
++ [162 Find Peak Element(二分)](algorithms/FindPeakElement)
 + [165 Compare Version Numbers](algorithms/CompareVersionNumbers)
 + [168 Excel Sheet Column Title(进制转化)](algorithms/ExcelSheetColumnTitle)
 + [169 Majority Element](algorithms/MajorityElement)
