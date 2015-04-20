@@ -24,6 +24,7 @@
 + [50 Pow(x, n)(二分，浮点数比较，INT\_MIN绝对值)](algorithms/Pow)
 + [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
++ [64 Minimum Path Sum(DP,空间压缩)](algorithms/MinimumPathSum)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [67 Add Binary](algorithms/AddBinary)
 + [72 Edit Distance(DP)](algorithms/EditDistance)
