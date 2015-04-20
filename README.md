@@ -25,6 +25,7 @@
 + [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
++ [67 Add Binary](algorithms/AddBinary)
 + [72 Edit Distance(DP)](algorithms/EditDistance)
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
