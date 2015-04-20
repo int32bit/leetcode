@@ -37,6 +37,7 @@
 + [112 Path Sum(前序遍历)](algorithms/PathSum)
 + [113 Path Sum II(前序遍历)](algorithms/PathSum2)
 + [114 Flatten Binary Tree to Linked List(后序遍历)](algorithms/FlattenBinaryTreetoLinkedList)
++ [125 Valid Palindrome](algorithms/ValidPalindrome)
 + [129 Sum Root to Leaf Numbers(前序遍历)](algorithms/SumRoottoLeafNumbers)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
