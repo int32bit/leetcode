@@ -28,6 +28,7 @@
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
 + [66 Plus One](algorithms/PlusOne)
 + [67 Add Binary](algorithms/AddBinary)
++ [69 Sqrt(x)(二分法，位运算)](algorithms/Sqrt)
 + [72 Edit Distance(DP)](algorithms/EditDistance)
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
