@@ -26,6 +26,7 @@
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
 + [64 Minimum Path Sum(DP,空间压缩)](algorithms/MinimumPathSum)
 + [65 Valid Number(细节题,状态机)](algorithms/ValidNumber)
++ [66 Plus One](algorithms/PlusOne)
 + [67 Add Binary](algorithms/AddBinary)
 + [72 Edit Distance(DP)](algorithms/EditDistance)
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
