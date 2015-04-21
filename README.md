@@ -20,6 +20,7 @@
 + [27 Remove Element](algorithms/RemoveElement)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
++ [34 Search for a Range(二分)](algorithms/SearchforaRange)
 + [35 Search Insert Position(二分查找)](algorithms/SearchInsertPosition)
 + [46 Permutations(全排列)](algorithms/Permutations)
 + [47 Permutations II(全排列)](algorithms/Permutations2)
