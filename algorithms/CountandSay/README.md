@@ -141,3 +141,13 @@ cout << j << endl;
 >The 3333 is read three 3, three 3 (or 333 333). This in turn would require 333 333 333. This fails in two respects. First, that the previous inputs would not merge to 63 or 93. The second, that the sequence eventually traces back to the origin, 1. Since it keeps increasing in length as the number of rounds since the start decreases, it cannot have started at 1. Therefore, 3s cannot reach 4.
 >
 >As every possible case has been examined, and none can reach a 4 while starting at the given beginning (1), it is not possible for a 4-chain to occur, meaning a 4 cannot appear in any valid string for this problem. Further, as stated above, since a 4-chain is impossible, so too are all n-chains with n>4, so no number greater than 4 can appear either.
+
+证明是使用了穷举法和换置位法
+
+要产生4，前面必须有4个连续的数字，比如41,反推前一个数字应该是1111, 然后继续推前面的一个应该是11，但由11推出了是21，和1111矛盾
+
+同理要有42->2222，2222的前面是2222，当2222的后面是42不是2222，循环矛盾。
+
+43->3333, 3333的前面是333333，而这个会产生63而不是3333,矛盾
+
+不能产生4，自然不能产生大于4的
