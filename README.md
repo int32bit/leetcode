@@ -13,7 +13,7 @@
 + [17 Letter Combinations of a Phone Number](algorithms/LetterCombinationsofaPhoneNumber)
 + [18 4Sum](algorithms/4Sum)
 + [19 Remove Nth Node From End of List(先后指针)](algorithms/RemoveNthNodeFromEndofList)
-+ [20 Valid Parentheses(栈)(algorithms/ValidParentheses)
++ [20 Valid Parentheses(栈)](algorithms/ValidParentheses)
 + [21 Merge Two Sorted Lists(归并)](algorithms/MergeTwoSortedLists)
 + [22 Generate Parentheses(递归、搜索)](algorithms/GenerateParentheses)
 + [26 Remove Duplicates from Sorted Array](algorithms/RemoveDuplicatesfromSortedArray)
