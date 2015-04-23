@@ -3,6 +3,7 @@
 + [1 Two Sum](algorithms/TwoSum)
 + [2 Add Two Numbers](algorithms/AddTwoNumber)
 + [3 Longest Substring Without Repeating Characters(DP)](algorithms/LongestSubstringWithoutRepeatingCharacters)
++ [4 Median of Two Sorted Arrays(二分查找，有序数组求第k大的数)](algorithms/MedianofTwoSortedArrays)
 + [7 Reverse Integer(溢出检测)](algorithms/ReverseInteger)
 + [8 String to Integer (atoi)(溢出检测)](algorithms/StringtoInteger)
 + [9 Palindrome Number](algorithms/PalindromeNumber)
