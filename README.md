@@ -38,6 +38,7 @@
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
 + [97 Interleaving String(DP)](algorithms/InterleavingString)
++ [98 Validate Binary Search Tree(BST, 中序遍历)](algorithms/ValidateBinarySearchTree)
 + [100 Same Tree(相同树，遍历)](algorithms/SameTree)
 + [101 Symmetric Tree(对称树)](algorithms/SymmetricTree)
 + [104 Maximum Depth of Binary Tree(树深度)](algorithms/MaximumDepthofBinaryTree)
