@@ -15,13 +15,18 @@ int getLength(struct ListNode *head)
 	}
 	return len;
 }
-void print(struct ListNode *ha, struct ListNode *hb)
+void print(struct ListNode *head)
 {
-	struct ListNode *p = getIntersectionNode(ha, hb);
-	if (p == NULL)
+	if (head == NULL) {
 		printf("NULL\n");
-	else
-		printf("%d\n", p -> val);
+		return;
+	}
+	struct ListNode *p = head;
+	while (p) {
+		printf("%d ", p->val);
+		p = p->next;
+	}
+	printf("\n");
 }
 struct ListNode * mk_list(struct ListNode **ha, int a[], int n)
 {
@@ -38,7 +43,19 @@ struct ListNode * mk_list(struct ListNode **ha, int a[], int n)
 	}
 	return p;
 }
+void free_list(struct ListNode *head)
+{
+	struct ListNode *p = head;
+	while (p) {
+		struct ListNode *q = p->next;
+		free(p);
+		p = q;
+	}
+}
 int main(int argc, char **argv)
 {
+	struct ListNode *head = NULL;
+	int a[] = {};
+	mk_list(&head, a, 0);
 	return 0;
 }

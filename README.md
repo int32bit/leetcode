@@ -52,6 +52,7 @@
 + [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
 + [142 Linked List Cycle II](algorithms/LinkedListCycle2)
 + [146 LRU Cache(空间换时间)](algorithms/LRUCache)
++ [147 Insertion Sort List(链表操作，插入排序)(algorithms/InsertionSortList)
 + [150 Evaluate Reverse Polish Notation(栈的应用)](algorithms/EvaluateReversePolishNotation)
 + [151 Reverse Words in a String](algorithms/ReverseWordsinaString)
 + [152 Maximum Product Subarray(DP)](algorithms/MaximumProductSubarray)
