@@ -52,6 +52,7 @@
 + [125 Valid Palindrome](algorithms/ValidPalindrome)
 + [129 Sum Root to Leaf Numbers(前序遍历)](algorithms/SumRoottoLeafNumbers)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
++ [138 Copy List with Random Pointer(链表扩展，随机链表拷贝)](algorithms/CopyListwithRandomPointer)
 + [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
 + [142 Linked List Cycle II](algorithms/LinkedListCycle2)
 + [144 Binary Tree Preorder Traversal(迭代法前序遍历](algorithms/BinaryTreePreorderTraversal)
