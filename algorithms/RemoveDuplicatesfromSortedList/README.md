@@ -29,3 +29,7 @@ struct ListNode* deleteDuplicates(struct ListNode *head)
 	return head;
 }
 ```
+
+## 扩展
+
+删除所有的重复节点[Remove Duplicates from Sorted List II](../RemoveDuplicatesfromSortedList2)
