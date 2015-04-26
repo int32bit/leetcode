@@ -29,19 +29,21 @@ while(q && q->val == p->val) {
 ```
 然后执行以下操作:
 
-	* 若`p == head`, 即头节点就出现重复，需要更新head指针，并释放p
+	+ 若`p == head`, 即头节点就出现重复，需要更新head指针，并释放p
+
 	```c
 	head = p->next;
 	free(p);
 	p = head;
 	```
-	* 若`p != head`, 则只需要删除p节点即可，利用pre指针
+
+	+ 若`p != head`, 则只需要删除p节点即可，利用pre指针
+
 	```c
 	pre->next = pre->next->next;
 	free(p);
 	p = q;
 	```
-
 
 ## Code
 ```c
