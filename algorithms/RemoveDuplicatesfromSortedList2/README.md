@@ -28,6 +28,7 @@ while(q && q->val == p->val) {
 }
 ```
 然后执行以下操作:
+
 	* 若`p == head`, 即头节点就出现重复，需要更新head指针，并释放p
 	```c
 	head = p->next;
