@@ -36,7 +36,7 @@
 + [69 Sqrt(x)(二分法，位运算)](algorithms/Sqrt)
 + [72 Edit Distance(DP)](algorithms/EditDistance)
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
-+ [82 Remove Duplicates from Sorted List II(链表操作](RemoveDuplicatesfromSortedList2)
++ [82 Remove Duplicates from Sorted List II(链表操作](algorithms/RemoveDuplicatesfromSortedList2)
 + [83 Remove Duplicates from Sorted List(链表操作)](algorithms/RemoveDuplicatesfromSortedList)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
 + [97 Interleaving String(DP)](algorithms/InterleavingString)
