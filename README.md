@@ -39,6 +39,7 @@
 + [82 Remove Duplicates from Sorted List II(链表操作](algorithms/RemoveDuplicatesfromSortedList2)
 + [83 Remove Duplicates from Sorted List(链表操作)](algorithms/RemoveDuplicatesfromSortedList)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
++ [96 Unique Binary Search Trees(迭代)](algorithms/Unique Binary Search Trees)
 + [97 Interleaving String(DP)](algorithms/InterleavingString)
 + [98 Validate Binary Search Tree(BST, 中序遍历)](algorithms/ValidateBinarySearchTree)
 + [100 Same Tree(相同树，遍历)](algorithms/SameTree)
