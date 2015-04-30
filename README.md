@@ -86,6 +86,7 @@
 + [202 Happy Number(环判断，模拟)](algorithms/HappyNumber)
 + [203 Remove Linked List Elements(链表操作)](algorithms/RemoveLinkedListElements)
 + [204 Count Primes(素数,埃拉托斯特尼筛法)](algorithms/CountPrimes)
++ [205 Isomorphic Strings](algorithms/IsomorphicStrings)
 
 ## Database
 
