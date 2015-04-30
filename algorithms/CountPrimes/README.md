@@ -16,7 +16,7 @@ Special thanks to @mithmatt for adding this problem and creating all test cases.
 
 使用[埃拉托斯特尼筛法](http://en.wikipedia.org/wiki/Sieve_of_Eratosthenes), 具体步骤是
 
-[!Sieve\_of\_Eratosthenes](img/Sieve_of_Eratosthenes_animation.gif)
+![Sieve\_of\_Eratosthenes](img/Sieve_of_Eratosthenes_animation.gif)
 
 > A prime number is a natural number that has exactly two distinct natural number divisors: 1 and itself.
 > 
