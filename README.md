@@ -19,6 +19,7 @@
 + [22 Generate Parentheses(递归、搜索)](algorithms/GenerateParentheses)
 + [23 Merge k Sorted Lists(堆)](algorithms/MergekSortedLists)
 + [24 Swap Nodes in Pairs(链表操作)](algorithms/SwapNodesinPairs)
++ [25 Reverse Nodes in k-Group(链表操作)](algorithms/ReverseNodesink-Group)
 + [26 Remove Duplicates from Sorted Array](algorithms/RemoveDuplicatesfromSortedArray)
 + [27 Remove Element](algorithms/RemoveElement)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
