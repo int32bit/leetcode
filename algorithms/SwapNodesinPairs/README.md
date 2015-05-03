@@ -48,3 +48,7 @@ ListNode *swapPairs(ListNode *head) {
 	return head;
 }
 ```
+
+## 扩展
+
+[Reverse Nodes in k-Group](../ReverseNodesink-Group)
