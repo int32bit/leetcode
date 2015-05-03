@@ -130,6 +130,6 @@ int maxProfit(vector<int>& prices) {
 
 ## 扩展
 
-[Best Time to Buy and Sell Stock](../BestTimetoBuyandSellStock)
-[Best Time to Buy and Sell Stock II](../BestTimetoBuyandSellStockII)
-[Best Time to Buy and Sell Stock III](../BestTimetoBuyandSellStockIII)
+* [Best Time to Buy and Sell Stock](../BestTimetoBuyandSellStock)
+* [Best Time to Buy and Sell Stock II](../BestTimetoBuyandSellStockII)
+* [Best Time to Buy and Sell Stock III](../BestTimetoBuyandSellStockIII)
