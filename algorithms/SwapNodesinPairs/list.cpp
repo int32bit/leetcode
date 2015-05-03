@@ -12,6 +12,23 @@ struct ListNode {
 };
 class Solution {
 	public:
+		ListNode *swapPairs(ListNode *head) {
+			if (head == nullptr || head->next == nullptr)
+				return head;
+			ListNode *p = head;
+			head = p->next;
+			ListNode *pre = nullptr;
+			while (p && p->next) {
+				ListNode *q = p->next;
+				p->next = q->next;
+				q->next = p;
+				if (pre)
+					pre->next = q;
+				pre = p;
+				p = p->next;
+			}
+			return head;
+		}
 
 };
 int getLength(ListNode *head)
@@ -61,9 +78,11 @@ void free_list(struct ListNode *head)
 }
 int main(int argc, char **argv)
 {
+	Solution solution;
 	struct ListNode *head = NULL;
-	int a[] = {1, 2, 3};
-	mk_list(&head, a, 3);
+	int a[] = {1, 2};
+	mk_list(&head, a, 2);
+	head = solution.swapPairs(head);
 	print(head);
 	return 0;
 }
