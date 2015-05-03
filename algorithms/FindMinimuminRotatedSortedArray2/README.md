@@ -41,3 +41,9 @@ int findMin(vector<int> &nums) {
 	return nums[s];
 }
 ```
+
+## 扩展
+
+[Search in Rotated Sorted Array](../SearchinRotatedSortedArray), 从旋转列表中查找某个值
+
+[Find Minimum in Rotated Sorted Array](../FindMinimuminRotatedSortedArray)

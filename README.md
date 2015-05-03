@@ -24,6 +24,7 @@
 + [27 Remove Element](algorithms/RemoveElement)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
++ [33 Search in Rotated Sorted Array(二分搜索)](algorithms/SearchinRotatedSortedArray)
 + [34 Search for a Range(二分)](algorithms/SearchforaRange)
 + [35 Search Insert Position(二分查找)](algorithms/SearchInsertPosition)
 + [38 Count and Say(字符串和数字转化详解)](algorithms/CountandSay)
