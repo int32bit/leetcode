@@ -128,3 +128,20 @@ void connect(TreeLinkNode *root) {
 做这种题目，思路一定要清晰，尤其是各种指针，不能乱。。
 
 另外这一题居然一次AC :)
+
+后面看了答案，还可以这么Simple。..., 好吧。。。
+
+```java
+public void connect(TreeLinkNode root) {
+	while(root != null){
+	    TreeLinkNode tempChild = new TreeLinkNode(0);
+	    TreeLinkNode currentChild = tempChild;
+	    while(root!=null){
+		if(root.left != null) { currentChild.next = root.left; currentChild = currentChild.next;}
+		if(root.right != null) { currentChild.next = root.right; currentChild = currentChild.next;}
+		root = root.next;
+	    }
+	    root = tempChild.next;
+	}
+}
+```
