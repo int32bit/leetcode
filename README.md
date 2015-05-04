@@ -58,6 +58,8 @@
 + [114 Flatten Binary Tree to Linked List(后序遍历)](algorithms/FlattenBinaryTreetoLinkedList)
 + [116 Populating Next Right Pointers in Each Node(层次遍历)](algorithms/PopulatingNextRightPointersinEachNode)
 + [117 Populating Next Right Pointers in Each Node II(层次遍历，O(1)空间，指针操作](algorithms/PopulatingNextRightPointersinEachNodeII)
++ [118 Pascal's Triangle(杨辉三角)](algorithms/PascalsTriangle)
++ [119 Pascal's Triangle II(杨辉三角第k行，求最大公约数](algorithms/PascalsTriangleII)
 + [120 Triangle(DP,空间压缩)](algorithms/Triangle)
 + [121 Best Time to Buy and Sell Stock(最大数对之差，DP](algorithms/BestTimetoBuyandSellStock)
 + [122 Best Time to Buy and Sell Stock II(贪心算法)](algorithms/BestTimetoBuyandSellStockII)
