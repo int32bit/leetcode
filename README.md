@@ -56,6 +56,7 @@
 + [112 Path Sum(前序遍历)](algorithms/PathSum)
 + [113 Path Sum II(前序遍历)](algorithms/PathSum2)
 + [114 Flatten Binary Tree to Linked List(后序遍历)](algorithms/FlattenBinaryTreetoLinkedList)
++ [116 Populating Next Right Pointers in Each Node(层次遍历)](algorithms/PopulatingNextRightPointersinEachNode)
 + [121 Best Time to Buy and Sell Stock(最大数对之差，DP](algorithms/BestTimetoBuyandSellStock)
 + [122 Best Time to Buy and Sell Stock II(贪心算法)](algorithms/BestTimetoBuyandSellStockII)
 + [123 Best Time to Buy and Sell Stock III(动态规划)](algorithms/BestTimetoBuyandSellStockIII)
