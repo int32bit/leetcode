@@ -72,7 +72,7 @@ int maxProfit(int *a, int n)
 }
 ```
 
-综合以上两个方法，当我们在i点切割数组时，如果我们直到i之前的最小值，并且指定i之后的最大值，则使用O(1)的时间可以求出左右两部分的最大数对之差.
+综合以上两个方法，当我们在i点切割数组时，如果我们知道i之前的最小值，并且知道i之后的最大值，则使用O(1)的时间可以求出左右两部分的最大数对之差.
 
 因此我们可以使用两个数组分别保存i之前的最小值和i之后的最大值.
 
@@ -130,6 +130,6 @@ int maxProfit(vector<int>& prices) {
 
 ## 扩展
 
-[Best Time to Buy and Sell Stock](../BestTimetoBuyandSellStock)
-[Best Time to Buy and Sell Stock II](../BestTimetoBuyandSellStockII)
-[Best Time to Buy and Sell Stock III](../BestTimetoBuyandSellStockIII)
+* [Best Time to Buy and Sell Stock](../BestTimetoBuyandSellStock)
+* [Best Time to Buy and Sell Stock II](../BestTimetoBuyandSellStockII)
+* [Best Time to Buy and Sell Stock III](../BestTimetoBuyandSellStockIII)
