@@ -33,7 +33,7 @@ After calling your function, the tree should look like:
 
 这一题思路有的，但就是做起来逻辑有点混乱，涉及指针如何移动。。。。多移一个少移一个。。。
 
-这题和[上一题](../PopulatingNextRightPointersinEachNodeII)的思路是一样的，唯一变化的就是，这是一个任意的二叉树，而不是
+这题和[上一题](../PopulatingNextRightPointersinEachNode)的思路是一样的，唯一变化的就是，这是一个任意的二叉树，而不是
 满二叉树，也就是说`p->left->next` 不再一定指向`p->right`, 而要指向和它相邻的最近右节点(而不一定是兄弟节点)。问题便是如何找到这个右节点出来。
 
 我们先定义一个函数`getNext(p)`，这个函数找到p节点的下一层的最左节点，同时p会移动到结果的父亲节点，即下图中
@@ -121,7 +121,7 @@ void connect(TreeLinkNode *root) {
 
 ## 扩展
 
-[Populating Next Right Pointers in Each Node](../Populating Next Right Pointers in Each Node)
+[Populating Next Right Pointers in Each Node](../PopulatingNextRightPointersinEachNode)
 
 ## 总结
 
