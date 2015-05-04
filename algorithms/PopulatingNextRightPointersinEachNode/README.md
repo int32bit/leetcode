@@ -15,8 +15,8 @@ Initially, all next pointers are set to `NULL`.
 
 Note:
 
-    * You may only use constant extra space.
-    * You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).
+* You may only use constant extra space.
+* You may assume that it is a perfect binary tree (ie, all leaves are at the same level, and every parent has two children).
 
 For example,
 Given the following perfect binary tree,
