@@ -23,6 +23,23 @@ public:
 	void connect(TreeLinkNode *root) {
 		if (root == nullptr)
 			return;
+		TreeLinkNode *p = root;
+		while (p->left) {
+			TreeLinkNode *q = p;
+			while (q) {
+				q->left->next = q->right;
+				if (q->next) {
+					q->right->next = q->next->left;
+				}
+					q = q->next;
+			}
+			p = p->left;
+		}
+	}
+	/*
+	void connect(TreeLinkNode *root) {
+		if (root == nullptr)
+			return;
 		queue<Bucket> q;
 		q.push(Bucket(root, 0));
 		while (!q.empty()) {
@@ -42,6 +59,7 @@ public:
 				q.push(Bucket(p->right, level + 1));
 		}
 	}
+	*/
 };
 TreeLinkNode *mk_node(int val)
 {
@@ -64,7 +82,9 @@ TreeLinkNode *mk_child(int root, int left, int right)
 int main(int argc, char **argv)
 {
 	Solution solution;
-	TreeLinkNode *root = mk_child(mk_node(0), nullptr, nullptr);
+	TreeLinkNode *root = mk_child(0,1,2);
+	mk_child(root->left, 3, 4);
+	mk_child(root->right, 5,6);
 	solution.connect(root);
 	return 0;
 }
