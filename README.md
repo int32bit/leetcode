@@ -62,6 +62,7 @@
 + [122 Best Time to Buy and Sell Stock II(贪心算法)](algorithms/BestTimetoBuyandSellStockII)
 + [123 Best Time to Buy and Sell Stock III(动态规划)](algorithms/BestTimetoBuyandSellStockIII)
 + [125 Valid Palindrome](algorithms/ValidPalindrome)
++ [128 Longest Consecutive Sequence](algorithms/LongestConsecutiveSequence)
 + [129 Sum Root to Leaf Numbers(前序遍历)](algorithms/SumRoottoLeafNumbers)
 + [136 Single Number(位运算)](algorithms/SingleNumber)
 + [138 Copy List with Random Pointer(链表扩展，随机链表拷贝)](algorithms/CopyListwithRandomPointer)
