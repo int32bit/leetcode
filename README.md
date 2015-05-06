@@ -22,6 +22,7 @@
 + [25 Reverse Nodes in k-Group(链表操作)](algorithms/ReverseNodesink-Group)
 + [26 Remove Duplicates from Sorted Array](algorithms/RemoveDuplicatesfromSortedArray)
 + [27 Remove Element](algorithms/RemoveElement)
++ [28 Implement strStr()](algorithms/ImplementstrStr)
 + [29 Divide Two Integers(位运算、最小负数绝对值、溢出检测)](algorithms/DivideTwoIntegers)
 + [31 Next Permutation(全排列)](algorithms/NextPermutation)
 + [33 Search in Rotated Sorted Array(二分搜索)](algorithms/SearchinRotatedSortedArray)
