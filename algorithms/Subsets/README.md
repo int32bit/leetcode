@@ -73,4 +73,4 @@ vector<vector<int>> subsets_iterative(vector<int> &nums) {
 
 ## 扩展
 
-[Subsets II](../SubsetsII)
+[Subsets II](../SubsetsII), 有重复元素的情况
