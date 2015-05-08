@@ -29,6 +29,7 @@
 + [34 Search for a Range(二分)](algorithms/SearchforaRange)
 + [35 Search Insert Position(二分查找)](algorithms/SearchInsertPosition)
 + [38 Count and Say(字符串和数字转化详解)](algorithms/CountandSay)
++ [43 Multiply Strings(大数乘法)](algorithms/MultiplyStrings)
 + [46 Permutations(全排列)](algorithms/Permutations)
 + [47 Permutations II(全排列)](algorithms/Permutations2)
 + [50 Pow(x, n)(二分，浮点数比较，INT\_MIN绝对值)](algorithms/Pow)

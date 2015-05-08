@@ -22,7 +22,7 @@ class Trie {
 		Trie() {
 			root = new TrieNode();
 		}
-		void insert(string s) {
+		void insert(const string s) {
 			TrieNode *p = root;
 			for (char c : s) {
 				int index = c - 'a';
