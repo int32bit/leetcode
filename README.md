@@ -77,6 +77,7 @@
 + [138 Copy List with Random Pointer(链表扩展，随机链表拷贝)](algorithms/CopyListwithRandomPointer)
 + [141 Linked List Cycle(快慢指针法)](algorithms/LinkedListCycle)
 + [142 Linked List Cycle II](algorithms/LinkedListCycle2)
++ [143 Reorder List(链表操作，指针中间节点，逆转链表)](algorithms/ReorderList)
 + [144 Binary Tree Preorder Traversal(迭代法前序遍历](algorithms/BinaryTreePreorderTraversal)
 + [145 Binary Tree Postorder Traversal(后序遍历)](algorithms/BinaryTreePostorderTraversal)
 + [146 LRU Cache(空间换时间)](algorithms/LRUCache)
