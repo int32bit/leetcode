@@ -32,6 +32,7 @@
 + [43 Multiply Strings(大数乘法)](algorithms/MultiplyStrings)
 + [46 Permutations(全排列)](algorithms/Permutations)
 + [47 Permutations II(全排列)](algorithms/Permutations2)
++ [49 Anagrams(字符串，回文构词)](algorithms/Anagrams)
 + [50 Pow(x, n)(二分，浮点数比较，INT\_MIN绝对值)](algorithms/Pow)
 + [58 Length of Last Word](algorithms/LengthofLastWord)
 + [60 Permutation Sequence(康托展开)](algorithms/PermutationSequence)
