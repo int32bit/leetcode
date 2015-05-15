@@ -39,3 +39,7 @@ ListNode *reverseRecursively(ListNode *&head, ListNode *p) {
 	return p;
 }
 ```
+
+## 扩展
+
+[Reverse Linked List II](../ReverseLinkedListII): 逆转指定的区间

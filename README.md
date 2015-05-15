@@ -51,6 +51,7 @@
 + [88 Merge Sorted Array(归并数组)](algorithms/MergeSortedArray)
 + [89 Gray Code(格雷码)](algorithms/GrayCode)
 + [90 Subsets II(迭代)](algorithms/SubsetsII)
++ [92 Reverse Linked List II(链表逆转)](algorithms/ReverseLinkedListII)
 + [94 Binary Tree Inorder Traversal(中序遍历，迭代法)](algorithms/BinaryTreeInorderTraversal)
 + [96 Unique Binary Search Trees(迭代)](algorithms/Unique Binary Search Trees)
 + [97 Interleaving String(DP)](algorithms/InterleavingString)
