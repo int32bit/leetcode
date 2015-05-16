@@ -63,3 +63,6 @@ class Trie {
 		TrieNode *root;
 };
 ```
+## 扩展
+
+[Add and Search Word - Data structure design](../AddandSearchWord): 实现含有任意字符的搜索
