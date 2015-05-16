@@ -63,7 +63,7 @@ ListNode *mergeSort(ListNode *head) {
 ```
 
 
-合并两个链表可以使用迭代法，也可以使用递归法，下面是递归实现方法:
+合并两个链表可以使用迭代法[Merge Two Sorted Lists](../MergeTwoSortedLists)，也可以使用递归法，下面是递归实现方法:
 
 ```cpp
 ListNode *merge(ListNode *l1, ListNode *l2) {
@@ -80,3 +80,10 @@ ListNode *merge(ListNode *l1, ListNode *l2) {
 	}
 }
 ```
+
+## 扩展
+
+[Merge Two Sorted Lists](../MergeTwoSortedLists): 合并两个链表
+[Merge k Sorted Lists](../MergekSortedLists): 合并K个链表
+[Merge Sorted Array](../MergeSortedArray): 合并两个数组
+[Sort List](../SortList): 归并排序两个链表
