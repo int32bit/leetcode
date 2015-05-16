@@ -45,3 +45,9 @@ struct ListNode *mergeTwoLists(struct ListNode *l1, struct ListNode *l2) {
 	return result;
 }
 ```
+## 扩展
+
+* [Merge Two Sorted Lists](../MergeTwoSortedLists): 合并两个链表
+* [Merge k Sorted Lists](../MergekSortedLists): 合并K个链表
+* [Merge Sorted Array](../MergeSortedArray): 合并两个数组
+* [Sort List](../SortList): 归并排序两个链表
