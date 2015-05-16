@@ -62,5 +62,7 @@ void merge_from_end(vector<int> &num1, int m, vector<int> &num2, int n) {
 
 ## 扩展
 
-[Merge Two Sorted Lists](../MergeTwoSortedLists)
-[Merge k Sorted Lists](../MergekSortedLists)
+* [Merge Two Sorted Lists](../MergeTwoSortedLists): 合并两个链表
+* [Merge k Sorted Lists](../MergekSortedLists): 合并K个链表
+* [Merge Sorted Array](../MergeSortedArray): 合并两个数组
+* [Sort List](../SortList): 归并排序两个链表
