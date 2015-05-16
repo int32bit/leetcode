@@ -40,3 +40,7 @@ int maxProduct(vector<int>& nums) {
     return max;
 }
 ```
+
+## 扩展
+
+[Maximum Subarray](../MaximumSubarray): 最大连续之和
