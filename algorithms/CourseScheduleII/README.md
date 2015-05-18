@@ -33,7 +33,7 @@ Hints:
 
 ## Solution
 
-求拓扑排序结果, 算法见[Course Schedule](../Course Schedule)
+求拓扑排序结果, 算法见[Course Schedule](../CourseSchedule)
 
 ```cpp
 vector<int> topsort(int n, const vector<pair<int, int>> &request) {
