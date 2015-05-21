@@ -46,6 +46,7 @@
 + [74 Search a 2D Matrix(二分搜索扩展(二维))](algorithms/Searcha2DMatrix)
 + [75 Sort Colors(O(1)空间，O(n)排序)](algorithms/SortColors)
 + [78 Subsets(递归、回溯、DFS)](algorithms/Subsets)
++ [79 Word Search(DFS、回溯)](../WordSearch)
 + [82 Remove Duplicates from Sorted List II(链表操作](algorithms/RemoveDuplicatesfromSortedList2)
 + [83 Remove Duplicates from Sorted List(链表操作)](algorithms/RemoveDuplicatesfromSortedList)
 + [86 Partition List(链表操作，类似于插入排序)](algorithms/PartitionList)
