@@ -38,4 +38,4 @@ int rob(int num[], int n) {
 
 ## 扩展
 
-[House Robber II](../House Robber II): 当大街是一条环的情况，即第一个和最后一个是相邻的情况
+[House Robber II](../HouseRobberII): 当大街是一条环的情况，即第一个和最后一个是相邻的情况
