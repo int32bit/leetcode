@@ -49,4 +49,4 @@ int rob(int *nums, int n)
 
 ## 扩展
 
-[House Robber](../House Robber): 无环的情况
+[House Robber](../HouseRobber): 无环的情况
