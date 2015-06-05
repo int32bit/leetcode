@@ -122,6 +122,8 @@
 + [211 Add and Search Word - Data structure design(Trie树)](algorithms/AddandSearchWord)
 + [213 House Robber II(DP)](algorithms/HouseRobberII)
 + [215 Kth Largest Element in an Array(快排partition函数)](algorithms/KthLargestElementinanArray)
++ [217 Contains Duplicate(hashset)](algorithms/ContainsDuplicate)
++ [219 Contains Duplicate II(hashmap)](algorithms/ContainsDuplicateII)
 
 ## Database
 
