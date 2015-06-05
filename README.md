@@ -121,6 +121,7 @@
 + [210 Course Schedule II(拓扑排序)](algorithms/CourseScheduleII)
 + [211 Add and Search Word - Data structure design(Trie树)](algorithms/AddandSearchWord)
 + [213 House Robber II(DP)](algorithms/HouseRobberII)
++ [215 Kth Largest Element in an Array(快排partition函数)](algorithms/KthLargestElementinanArray)
 
 ## Database
 
