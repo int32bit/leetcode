@@ -124,6 +124,7 @@
 + [215 Kth Largest Element in an Array(快排partition函数)](algorithms/KthLargestElementinanArray)
 + [217 Contains Duplicate(hashset)](algorithms/ContainsDuplicate)
 + [219 Contains Duplicate II(hashmap)](algorithms/ContainsDuplicateII)
++ [226 Invert Binary Tree(递归，树)](algorithms/InvertBinaryTree)
 
 ## Database
 

@@ -21,6 +21,6 @@ bool containsDuplicate(vector<int> &nums) {
 
 ## 扩展
 
-[Contains Duplicate](../ContainsDuplicate): 判断一个数组是否存在重复元素
-[Contains Duplicate II](../ContainsDuplicateII):判断一个数组在指定距离内是否存在重复元素
-[Contains Duplicate III](../ContainsDuplicateIII):判断一个数组在指定距离内是否存在元素距离小于t
+* [Contains Duplicate](../ContainsDuplicate): 判断一个数组是否存在重复元素
+* [Contains Duplicate II](../ContainsDuplicateII):判断一个数组在指定距离内是否存在重复元素
+* [Contains Duplicate III](../ContainsDuplicateIII):判断一个数组在指定距离内是否存在元素距离小于t

@@ -34,13 +34,9 @@ class Solution {
 			int k = nums[s];
 			while (i < j) {
 				while (nums[j] <= k && i < j) --j;
-				if (i < j) {
-					nums[i] = nums[j];
-				}
+				nums[i] = nums[j];
 				while (nums[i] >= k && i < j) ++i;
-				if (i < j) {
-					nums[j] = nums[i];
-				}
+				nums[j] = nums[i];
 			}
 			nums[i] = k;
 			return i;
@@ -49,9 +45,9 @@ class Solution {
 int main(int argc, char **argv)
 {
 	Solution solution;
-	vector<int> nums = {1,1,1,1};
+	vector<int> nums = {1,2,1,3,5,5};
 	print(nums);
-	int result = solution.findKthLargest(nums, 3);
+	int result = solution.findKthLargest(nums, 2);
 	printf("result = %d\n", result);
 	return 0;
 }
