@@ -125,6 +125,7 @@
 + [217 Contains Duplicate(hashset)](algorithms/ContainsDuplicate)
 + [219 Contains Duplicate II(hashmap)](algorithms/ContainsDuplicateII)
 + [226 Invert Binary Tree(递归，树)](algorithms/InvertBinaryTree)
++ [231 Power of Two(位运算，二进制1的个数)](algorithms/PowerofTwo)
 
 ## Database
 
