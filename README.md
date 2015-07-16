@@ -129,7 +129,8 @@
 + [230 Kth Smallest Element in a BST(BST、中序遍历)](algorithms/KthSmallestElementinaBST)
 + [231 Power of Two(位运算，二进制1的个数)](algorithms/PowerofTwo)
 + [232 Implement Queue using Stacks(栈模拟队列)](algorithms/ImplementQueueusingStacks)
-+ [235 Lowest Common Ancestor of a Binary Search Tree(LCA, 最低公共祖先)](algorithms/LowestCommonAncestorofaBinarySearchTree)
++ [235 Lowest Common Ancestor of a Binary Search Tree(LCA, 最低公共祖先,二叉搜索树)](algorithms/LowestCommonAncestorofaBinarySearchTree)
++ [236 Lowest Common Ancestor of a Binary Tree(LCA,最低公共祖先，二叉树](algorithms/LowestCommonAncestorofaBinaryTree)
 + [237 Delete Node in a Linked List(O(1)删除单链表节点)](algorithms/DeleteNodeinaLinkedList)
 
 ## Database
