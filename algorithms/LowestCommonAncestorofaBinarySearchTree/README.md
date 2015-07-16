@@ -41,5 +41,5 @@ private:
 
 ## 相关题目
 
-[Lowest Common Ancestor of a Binary Search Tree](../LowestCommonAncestorofaBinarySearchTree):求BST最低公共祖先节点
-[Lowest Common Ancestor of a Binary Tree](../LowestCommonAncestorofaBinaryTree):求二叉树最低公共祖先节点
+* [Lowest Common Ancestor of a Binary Search Tree](../LowestCommonAncestorofaBinarySearchTree):求BST最低公共祖先节点
+* [Lowest Common Ancestor of a Binary Tree](../LowestCommonAncestorofaBinaryTree):求二叉树最低公共祖先节点
