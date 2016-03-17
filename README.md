@@ -135,6 +135,7 @@
 + [236 Lowest Common Ancestor of a Binary Tree(LCA,最低公共祖先，二叉树](algorithms/LowestCommonAncestorofaBinaryTree)
 + [237 Delete Node in a Linked List(O(1)删除单链表节点)](algorithms/DeleteNodeinaLinkedList)
 + [238 Product of Array Except Self(数组操作)](algorithms/ProductofArrayExceptSelf)
++ [242 Valid Anagram(hash表，判断两个字符串出现的字符和次数均相同)](algorithms/ValidAnagram)
 
 ## Database
 
