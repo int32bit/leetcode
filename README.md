@@ -28,6 +28,7 @@
 + [33 Search in Rotated Sorted Array(二分搜索)](algorithms/SearchinRotatedSortedArray)
 + [34 Search for a Range(二分)](algorithms/SearchforaRange)
 + [35 Search Insert Position(二分查找)](algorithms/SearchInsertPosition)
++ [36 Valid Sudoku(数独、hash表)](algorithms/ValidSudoku)
 + [38 Count and Say(字符串和数字转化详解)](algorithms/CountandSay)
 + [43 Multiply Strings(大数乘法)](algorithms/MultiplyStrings)
 + [46 Permutations(全排列)](algorithms/Permutations)
