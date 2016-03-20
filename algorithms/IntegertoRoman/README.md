@@ -30,10 +30,13 @@ Input is guaranteed to be within the range from 1 to 3999.
 
 按照以上的规则转换，发现还是挺复杂的，依据**阿拉伯数字每位数字分别表示**, 因此可以把每一位的数值分别表示写成一个静态表，然后把数字逐位转化即可:
 
-|个位|I|II|III|IV|V|VI|VII|VIII|IX|
-|十位|X|XX|XXX|XL|L|LX|LXX|LXXX|XC|
-|百位|C|CC|CCC|CD|D|DC|DCC|DCCC|CM|
-|千位|M|MM|MMM|-|-|-|-|-|
+位值 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
+-----|---|---|---|---|---|---|---|---|---
+个位 | I | II | III | IV | V | VI | VII | VIII | IX
+十位 | X | XX | XXX | XL | L | LX | LXX | LXXX | XC
+百位|C|CC|CCC|CD|D|DC|DCC|DCCC|CM
+千位|M|MM|MMM|-|-|-|-|-
+
 
 ```cpp
 const string ROMAN_TABLE[4][9] = {
