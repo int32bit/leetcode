@@ -138,6 +138,7 @@
 + [237 Delete Node in a Linked List(O(1)删除单链表节点)](algorithms/DeleteNodeinaLinkedList)
 + [238 Product of Array Except Self(数组操作)](algorithms/ProductofArrayExceptSelf)
 + [242 Valid Anagram(hash表，判断两个字符串出现的字符和次数均相同)](algorithms/ValidAnagram)
++ [338 Counting Bits(二进制1的个数，迭代法)](algorithms/CountingBits)
 
 ## Database
 
