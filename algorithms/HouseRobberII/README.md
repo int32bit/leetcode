@@ -11,7 +11,7 @@ Special thanks to @Freezen for adding this problem and creating all test cases.
 
 ## Solution
 
-分别求包括第一个不包括最后一个、包括最后一个不包括第一个情况
+分别求包括第一个但不包括最后一个节点、包括最后一个但不包括第一个节点的情况
 
 首先实现没有环的情况:
 
