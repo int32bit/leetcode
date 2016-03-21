@@ -38,4 +38,6 @@ int rob(int num[], int n) {
 
 ## 扩展
 
-[House Robber II](../HouseRobberII): 当大街是一条环的情况，即第一个和最后一个是相邻的情况
+1. [House Robber](../HouseRobber): 线性的情况
+2. [House Robber II](../HouseRobberII)：线性的情况，首位相连
+3. [House Robber III](../HouseRobberIII)：树形结构

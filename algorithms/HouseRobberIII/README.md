@@ -63,6 +63,6 @@ int rob(TreeNode *root) {
 
 ## 参考
 
-1. [House Robber](../HouseRobber)
-2. [House Robber II](../HouseRobberII)
-3. [House Robber III](../HouseRobberIII)
+1. [House Robber](../HouseRobber): 线性的情况
+2. [House Robber II](../HouseRobberII)：线性的情况，首位相连
+3. [House Robber III](../HouseRobberIII)：树形结构
